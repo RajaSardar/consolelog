@@ -1,0 +1,17 @@
+{
+    "name": "@rajasardar/test",
+    "version": "1.0.0",
+    "description": "My Very First NPM Package",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Raja Sardar",
+    "license": "ISC",
+    "repository": "rajasardar/test",
+    "dependencies": {},
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
