@@ -1,6 +1,6 @@
 {
-    "name": "@rajasardar/consolelog",
-    "version": "1.1.0",
+    "name": "@rajasardar/rmlog",
+    "version": "0.0.1",
     "description": "My Very First NPM Package",
     "main": "index.js",
     "scripts": {
@@ -9,7 +9,7 @@
     },
     "author": "Raja Sardar",
     "license": "ISC",
-    "repository": "rajasardar/consolelog",
+    "repository": "rajasardar/rmlog",
     "dependencies": {},
     "devDependencies": {
         "nodemon": "^2.0.2"
